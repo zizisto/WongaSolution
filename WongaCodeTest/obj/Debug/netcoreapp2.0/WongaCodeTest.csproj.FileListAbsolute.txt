@@ -1,0 +1,8 @@
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTest.deps.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTest.runtimeconfig.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTest.runtimeconfig.dev.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTest.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTest.csprojResolveAssemblyReference.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTest.AssemblyInfoInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTest.AssemblyInfo.cs

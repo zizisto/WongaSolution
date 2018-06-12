@@ -1,0 +1,9 @@
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.csprojResolveAssemblyReference.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\Messages\obj\Debug\netcoreapp2.0\Messages.pdb

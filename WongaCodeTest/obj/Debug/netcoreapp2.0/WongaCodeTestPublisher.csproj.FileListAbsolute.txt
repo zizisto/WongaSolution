@@ -1,0 +1,14 @@
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTestPublisher.deps.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTestPublisher.runtimeconfig.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTestPublisher.runtimeconfig.dev.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTestPublisher.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\WongaCodeTestPublisher.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.csprojResolveAssemblyReference.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.csproj.CoreCompileInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.AssemblyInfoInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.AssemblyInfo.cs
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTest\obj\Debug\netcoreapp2.0\WongaCodeTestPublisher.csproj.CopyComplete

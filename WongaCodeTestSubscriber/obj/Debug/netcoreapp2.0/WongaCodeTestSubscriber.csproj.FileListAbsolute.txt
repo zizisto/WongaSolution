@@ -1,0 +1,14 @@
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\WongaCodeTestSubscriber.deps.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\WongaCodeTestSubscriber.runtimeconfig.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\WongaCodeTestSubscriber.runtimeconfig.dev.json
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\WongaCodeTestSubscriber.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.csprojResolveAssemblyReference.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.AssemblyInfoInputs.cache
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.AssemblyInfo.cs
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\WongaCodeTestSubscriber.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\msifanelo\Documents\Visual Studio 2017\Projects\WongaCodeTest\WongaCodeTestSubscriber\obj\Debug\netcoreapp2.0\WongaCodeTestSubscriber.csproj.CopyComplete
